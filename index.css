@@ -11,10 +11,7 @@ body {
     font-size: 1.5rem;
 }
 
-.main-nav a {
-    margin-right: 5px;
-    color: #FFFFFF;
-}
+
 
 .header {
     background-color: #303F9F;
@@ -66,4 +63,11 @@ body {
     border-radius: 8px;
     padding: 10px;
     height: 20px;
+}
+
+
+.main-nav a {
+    margin-right: 5px;
+    color: #FFFFFF !important;
+    text-decoration: none;
 }
